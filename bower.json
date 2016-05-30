@@ -1,0 +1,23 @@
+{
+  "name": "amir_mvc_js",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Seyedamirhossein Hesamian"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/amir734jj/Amir.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.4",
+    "js-md5": "md5#^0.4.1",
+    "underscore": "^1.8.3"
+  }
+}

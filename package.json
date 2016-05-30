@@ -1,0 +1,26 @@
+{
+  "name": "amir_mvc_js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "body-parser": "^1.15.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir734jj/Amir.js.git"
+  },
+  "author": "Seyedamirhossein Hesamian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amir734jj/Amir.js/issues"
+  },
+  "homepage": "https://github.com/amir734jj/Amir.js#readme",
+  "description": ""
+}
